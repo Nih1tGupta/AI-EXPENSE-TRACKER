@@ -1,4 +1,5 @@
-
+###⚠️ Note: This project is currently a work in progress. Deployment is pending.
+Features like AI-based receipt scanning and monthly summaries are under development.
 
 ### Make sure to create a `.env` file with following variables -
 
